@@ -26,8 +26,13 @@ refocus on emerging ai, advanced analytics, and model driven products and soluti
 
 
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54"></a>
-  <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/Bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white"></a>
+  <a href="#"><img alt="R" src="https://img.shields.io/badge/R-3670A0?style=plastic&logo=R&logoColor=#276DC3"></a>
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?style=plastic&logo=database&logoColor=white"></a>
+    <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/Bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="Salesforce" src="https://img.shields.io/badge/salesforce-3670A0?style=plastic&logo=salesforce&logoColor=#00A1E0"></a>
+
+
+    
  </p>
  <h3>🧰 Packages and Libraries</h3>
  <p>
@@ -52,14 +57,16 @@ refocus on emerging ai, advanced analytics, and model driven products and soluti
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?style=plastic&logo=github&logoColor=white"></a>
   <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?style=plastic&logo=github&logoColor=white"></a>
  <p>
-   <a href="#"><img alt="Conda" src="(https://img.shields.io/badge/Conda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white"></a>
+ <p>
+   <a href="#"><img alt="Conda" src="https://img.shields.io/badge/Conda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white"></a>
  <p>
  <p>
-   <a href="#"><img alt="Jupyter Notebook" src="(https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white"></a>
-   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=white"></a>
- <p> 
-  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?style=flat-square&logo=google%20sheets&logoColor=white"></a>
-  <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"></a>
+   <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white"></a>
+   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000.svg?style=plastic&logo=markdown&logoColor=white"></a>
+ <p>
+ <p>
+  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
+  <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"></a>
  </p>
 
  <!-- Github Activities -->
