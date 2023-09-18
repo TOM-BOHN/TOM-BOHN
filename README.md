@@ -10,9 +10,6 @@ refocus on emerging ai, advanced analytics, and model driven products and soluti
 ## :construction_worker_man: What I'm Working On
 
 ### Data Science Projects
-- [Data Science Projects](tbd)
-- [Data Management Writing](tbd)
-
 | Date | Repo | Description | Status |
 |------|------|-------------|--------|
 |2023 Sept| [news-articles-categorization](https://github.com/TOM-BOHN/MsDS-news-articles-categorization/blob/main/news-articles-categorization.ipynb) |A report focused on modeling news artical categorization for BBC News focused on the application of natural language processing, unsupervised learning with matrix factorization, and a comparison to supervised learning.|In Progress|
