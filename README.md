@@ -6,11 +6,23 @@ Experienced Data Scientist with 14 years of expertise in data science, data visu
 implement strategies for data-centric product development and data-driven decision-making. Applying for the position of Senior Data Scientist to leverage expertise
 refocus on emerging ai, advanced analytics, and model driven products and solutions.
 
-<!-- Most Recent Work Items -->
-## :construction_worker_man: What I'm Working On 
+<!-- Most Recent Data Science Projects -->
+## :construction_worker_man: What I'm Working On
+
+### Data Science Projects
 - [Data Science Projects](tbd)
 - [Data Management Writing](tbd)
 
+| Date | Repo | Description | Status |
+|------|------|-------------|--------|
+|2023 Sept| [news-articles-categorization](https://github.com/TOM-BOHN/MsDS-news-articles-categorization/blob/main/news-articles-categorization.ipynb) |A report focused on modeling news artical categorization for BBC News focused on the application of natural language processing, unsupervised learning with matrix factorization, and a comparison to supervised learning.|In Progress|
+|2023 Sept| [marketing_text_classification](https://github.com/TOM-BOHN/MsDS-marketing-text-classification/blob/main/marketing_text_classification.ipynb) |A report focused on modeling news article categorization for marketing analytics. This notebook focuses on the application of natural language processing, supervised learning with k-train (a wrapper for Tensorflow, Keras, and Huggingface Transformers), and a evaluation of performance.|Completed|
+|2023 Aug| [customer-churn-prediction](https://github.com/TOM-BOHN/MsDS-customer-churn-prediction/blob/main/customer_churn_prediction.ipynb) |In this report, I will play the role of data scientist. Stepping out of my business-facing role and working with a similar model that was created to predict customer attrition. While I cannot use proprietary business data for this analysis, I will find and use a publicly available customer churn dataset to emulate a similar customer context. I will also use the Random Forest classifier package, similar to the model that was implemented at the company.|Completed|
+
+### Data Management Writing
+| Date | Repo | Description | Status |
+|------|------|-------------|--------|
+|2023 Aug| [The 4 Cs of Data Governance Measurement](https://medium.com/@bohn.tl/the-4-cs-of-data-governance-measurement-5759fdbbc373) |A framework introducing Capability, Capacity, Competency, and Compliance to guide data strategy and highlight improvement areas within enterprises.|Completed|
 
 <!-- Links Across Internet -->
 ## :earth_americas: Find Me Elsewhere
