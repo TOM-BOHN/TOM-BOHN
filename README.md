@@ -27,37 +27,149 @@
 ## 🚀 Recent Data Science Projects
 
 ### 🎨 Computer Vision & Image Processing
-| Date | Type | Repo | Description | Status |
-|------|------|------|-------------|--------|
-|2025 Sept|TensorFlow CycleGAN|[deep-learing-gan-monet-painting](https://github.com/TOM-BOHN/MsDS-deep-learing-gan-monet-painting/tree/main)|Generate Monet-style paintings from photographs using a Generative Adversarial Network (GAN), specifically a CycleGAN architecture. The goal was to learn and replicate the distinctive artistic style of Claude Monet—his color palette, brush strokes, and use of light—to perform an artistic style transfer.|Completed|
-|2025 Aug|TensorFlow CNN|[deep-learing-cnn-cancer-detection](https://github.com/TOM-BOHN/MsDS-deep-learing-cnn-cancer-detection)| Develop and evaluate a Convolutional Neural Network (CNN) for the binary classification of histopathologic images, specifically to detect the presence of metastatic cancer in image patches from the PatchCamelyon (PCam) dataset.|Completed|
+
+<table>
+<tr>
+<th width="10%" style="text-align: center;">Date</th>
+<th width="15%" style="text-align: center;">Type</th>
+<th width="20%" style="text-align: center;">Repo</th>
+<th width="10%" style="text-align: center;">Status</th>
+<th width="45%" style="text-align: center;">Description</th>
+</tr>
+<tr>
+<td align="center">2025 Sept</td>
+<td align="center">CycleGAN</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/MsDS-deep-learing-gan-monet-painting/tree/main">deep-learing-gan-monet-painting</a></td>
+<td align="center">Completed</td>
+<td>Generate Monet-style paintings from photographs using CycleGAN architecture. Replicates Monet's artistic style through color palette, brush strokes, and lighting techniques.</td>
+</tr>
+<tr>
+<td align="center">2025 Aug</td>
+<td align="center">CNN</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/MsDS-deep-learing-cnn-cancer-detection">deep-learing-cnn-cancer-detection</a></td>
+<td align="center">Completed</td>
+<td>Develop CNN for binary classification of histopathologic images to detect metastatic cancer using PatchCamelyon dataset.</td>
+</tr>
+</table>
 
 ### 📝 Natural Language Processing
-| Date | Type | Repo | Description | Status |
-|------|------|------|-------------|--------|
-|2025 Sept|TensorFlow LSTM|[deep-learing-rnn-disaster-tweets ](https://github.com/TOM-BOHN/MsDS-deep-learing-rnn-disaster-tweets)|Deep learning model to classify tweets, determining whether they pertain to real-world disasters. By leveraging a dataset of 10,000 hand-classified tweets, the primary objective was to build a recurrent neural network (RNN) capable of accurately distinguishing between disaster-related and non-disaster-related tweets. This task is crucial for emergency response organizations and news agencies that monitor social media for real-time information.|Completed|
-|2024 Oct|Python Unsupervised NLP|[unsupervised-nlp-sfdc-classification](https://github.com/TOM-BOHN/MsDS-unsupervised-nlp-sfdc-classification)| Explores the application of unsupervised learning models to categorize large volumes of Salesforce help documentation. Salesforce, like many software companies, produces extensive documentation, which can be challenging to organize into categories. Using Natural Language Processing (NLP), features from 1,498 documents across Salesforce's Service Cloud and Sales Cloud were extracted to identify clusters and relationships in the text.|Completed|
-|2024 Oct|Python Supervised NLP|[supervised-nlp-auto-classification-for-sfdc-documentation](https://github.com/TOM-BOHN/MsDS-supervised-nlp-sfdc-auto-classification)| Develop a natural language processing (NLP) model to automate the classification of Salesforce documentation across various product features and cloud services, such as Sales Cloud and Service Cloud.|Completed|
-|2023 Sept| Python Unsupervised Learning| [news-articles-categorization](https://github.com/TOM-BOHN/MsDS-news-articles-categorization/blob/main/news-articles-categorization.ipynb) |A report focused on modeling news artical categorization for BBC News focused on the application of natural language processing, unsupervised learning with matrix factorization, and a comparison to supervised learning.|Completed|
-|2023 Sept| Supervised Deep Learning |[marketing_text_classification](https://github.com/TOM-BOHN/MsDS-marketing-text-classification/blob/main/marketing_text_classification.ipynb) |A report focused on modeling news article categorization for marketing analytics. This notebook focuses on the application of natural language processing, supervised learning with k-train (a wrapper for Tensorflow, Keras, and Huggingface Transformers), and a evaluation of performance.|Completed|
+
+<table>
+<tr>
+<th width="10%" style="text-align: center;">Date</th>
+<th width="15%" style="text-align: center;">Type</th>
+<th width="20%" style="text-align: center;">Repo</th>
+<th width="10%" style="text-align: center;">Status</th>
+<th width="45%" style="text-align: center;">Description</th>
+</tr>
+<tr>
+<td align="center">2025 Sept</td>
+<td align="center">LSTM</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/MsDS-deep-learing-rnn-disaster-tweets">deep-learing-rnn-disaster-tweets</a></td>
+<td align="center">Completed</td>
+<td>Build LSTM model to classify disaster-related tweets using 10,000 hand-labeled samples for emergency response monitoring.</td>
+</tr>
+<tr>
+<td align="center">2024 Oct</td>
+<td align="center">Unsupervised NLP</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/MsDS-unsupervised-nlp-sfdc-classification">unsupervised-nlp-sfdc-classification</a></td>
+<td align="center">Completed</td>
+<td>Apply unsupervised learning to categorize 1,498 Salesforce documentation pages using NLP feature extraction and clustering.</td>
+</tr>
+<tr>
+<td align="center">2024 Oct</td>
+<td align="center">Supervised NLP</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/MsDS-supervised-nlp-sfdc-auto-classification">supervised-nlp-auto-classification-for-sfdc-documentation</a></td>
+<td align="center">Completed</td>
+<td>Develop NLP model to automate Salesforce documentation classification across Sales Cloud and Service Cloud features.</td>
+</tr>
+<tr>
+<td align="center">2023 Sept</td>
+<td align="center">Unsupervised Learning</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/MsDS-news-articles-categorization/blob/main/news-articles-categorization.ipynb">news-articles-categorization</a></td>
+<td align="center">Completed</td>
+<td>Model BBC News article categorization using NLP, matrix factorization, and compare unsupervised vs supervised approaches.</td>
+</tr>
+<tr>
+<td align="center">2023 Sept</td>
+<td align="center">Deep Learning</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/MsDS-marketing-text-classification/blob/main/marketing_text_classification.ipynb">marketing_text_classification</a></td>
+<td align="center">Completed</td>
+<td>Classify marketing text using k-train wrapper for TensorFlow, Keras, and Hugging Face Transformers with performance evaluation.</td>
+</tr>
+</table>
 
 ### 🤖 Traditional Machine Learning
-| Date | Type | Repo | Description | Status |
-|------|------|------|-------------|--------|
-|2023 Aug| Python Supervised Learning | [customer-churn-prediction](https://github.com/TOM-BOHN/MsDS-customer-churn-prediction/blob/main/customer_churn_prediction.ipynb) |In this report, I will play the role of data scientist. Stepping out of my business-facing role and working with a similar model that was created to predict customer attrition. While I cannot use proprietary business data for this analysis, I will find and use a publicly available customer churn dataset to emulate a similar customer context. I will also use the Random Forest classifier package, similar to the model that was implemented at the company.|Completed|
+
+<table>
+<tr>
+<th width="10%" style="text-align: center;">Date</th>
+<th width="15%" style="text-align: center;">Type</th>
+<th width="20%" style="text-align: center;">Repo</th>
+<th width="10%" style="text-align: center;">Status</th>
+<th width="45%" style="text-align: center;">Description</th>
+</tr>
+<tr>
+<td align="center">2023 Aug</td>
+<td align="center">Supervised Learning</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/MsDS-customer-churn-prediction/blob/main/customer_churn_prediction.ipynb">customer-churn-prediction</a></td>
+<td align="center">Completed</td>
+<td>Predict customer churn using Random Forest classifier on public dataset, emulating business context for attrition analysis.</td>
+</tr>
+</table>
 
 ### 📈 Data Visualization & Analysis
-| Date | Type | Repo | Description | Status |
-|------|------|------|-------------|--------|
-|2023 April| Python Data Vizualization | [consumer-price-index](https://github.com/TOM-BOHN/MsDS-consumer-price-index/blob/main/CPI_Visualization_Project.ipynb) |While the CPI news release and charts are thorough, they focus on the top-level CPI number. This is effective at describing the why behind inflation, but given the amount of aggregation, this package falls short of successfully communicating the "so what" of changes in CPI and inflation to the average person.|Completed|
-|2023 April| R Analysis | [nypd-shooting](https://github.com/TOM-BOHN/MsDS-nypd-shooting/blob/main/NYPD%20Shooting%20Incident%20Data%20Report.Rmd) | Analysis of NYPD Shooting Incident Data to identify factors and trends contributiong to shootings in New York City.|Completed|
-|2023 April| R Analysis | [covid-19](https://github.com/TOM-BOHN/MsDS-covid-19/blob/main/covid19%20Data%20Report.Rmd) | Analysis of COVID-19 data for global and US datassets. Exploratory data anlaysis in R to identify how the data interacts and connects.|Completed|
+
+<table>
+<tr>
+<th width="10%" style="text-align: center;">Date</th>
+<th width="15%" style="text-align: center;">Type</th>
+<th width="20%" style="text-align: center;">Repo</th>
+<th width="10%" style="text-align: center;">Status</th>
+<th width="45%" style="text-align: center;">Description</th>
+</tr>
+<tr>
+<td align="center">2023 April</td>
+<td align="center">Data Visualization</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/MsDS-consumer-price-index/blob/main/CPI_Visualization_Project.ipynb">consumer-price-index</a></td>
+<td align="center">Completed</td>
+<td>Create comprehensive CPI visualizations to communicate inflation impact beyond top-level numbers for public understanding.</td>
+</tr>
+<tr>
+<td align="center">2023 April</td>
+<td align="center">R Analysis</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/MsDS-nypd-shooting/blob/main/NYPD%20Shooting%20Incident%20Data%20Report.Rmd">nypd-shooting</a></td>
+<td align="center">Completed</td>
+<td>Analyze NYPD shooting incident data to identify contributing factors and trends in New York City shootings.</td>
+</tr>
+<tr>
+<td align="center">2023 April</td>
+<td align="center">R Analysis</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/MsDS-covid-19/blob/main/covid19%20Data%20Report.Rmd">covid-19</a></td>
+<td align="center">Completed</td>
+<td>Conduct exploratory data analysis of global and US COVID-19 datasets to identify data interactions and connections.</td>
+</tr>
+</table>
 
 
 ### 📝 Featured Writing & Publications
-| Date | Type | Title | Description | Status |
-|------|------|-------|-------------|--------|
-|2023 Aug| Medium Article| [The 4 Cs of Data Governance Measurement](https://medium.com/@bohn.tl/the-4-cs-of-data-governance-measurement-5759fdbbc373) |A comprehensive framework introducing Capability, Capacity, Competency, and Compliance to guide data strategy and highlight improvement areas within enterprises. This framework helps organizations assess and improve their data governance maturity.|Published|
+
+<table>
+<tr>
+<th width="10%" style="text-align: center;">Date</th>
+<th width="15%" style="text-align: center;">Type</th>
+<th width="20%" style="text-align: center;">Title</th>
+<th width="10%" style="text-align: center;">Status</th>
+<th width="45%" style="text-align: center;">Description</th>
+</tr>
+<tr>
+<td align="center">2023 Aug</td>
+<td align="center">Medium Article</td>
+<td align="center"><a href="https://medium.com/@bohn.tl/the-4-cs-of-data-governance-measurement-5759fdbbc373">The 4 Cs of Data Governance Measurement</a></td>
+<td align="center">Published</td>
+<td>Introduce comprehensive framework for data governance using Capability, Capacity, Competency, and Compliance metrics.</td>
+</tr>
+</table>
 
 ---
 
