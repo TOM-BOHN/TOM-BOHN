@@ -63,7 +63,7 @@
 <th width="45%" style="text-align: center;">Description</th>
 </tr>
 <tr>
-<td align="center">2025 Jan</td>
+<td align="center">2025 Oct</td>
 <td align="center">LLM Classification</td>
 <td align="center"><a href="https://github.com/TOM-BOHN/MsDS-deep-learning-llm-classification-finetuning">deep-learning-llm-classification-finetuning</a></td>
 <td align="center">Completed</td>
