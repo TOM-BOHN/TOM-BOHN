@@ -159,6 +159,20 @@
 </tr>
 </table>
 
+---
+
+## 🔗 Certification Links
+
+<div align="center">
+
+[![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/thomasbohn)
+[![Credly](https://img.shields.io/badge/-Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/thomasbohn/badges)
+[![Accredible](https://img.shields.io/badge/-Accredible-FF6B35?style=for-the-badge&logo=accredible&logoColor=white)](https://credentials.getdbt.com/profile/thomasbohn/wallet)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn_Certs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomaslbohn/details/certifications/)
+
+</div>
+
+---
 
 ### 📝 Featured Writing & Publications
 
