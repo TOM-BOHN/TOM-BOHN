@@ -17,6 +17,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomaslbohn)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bohn.tl)
 
 *Open to discussing data science opportunities, collaborations, and innovative projects*
 
@@ -177,6 +178,30 @@
 <td>Introduce comprehensive framework for data governance using Capability, Capacity, Competency, and Compliance metrics.</td>
 </tr>
 </table>
+
+---
+
+## 🎉 Fun Facts & Personal Interests
+
+<div align="center">
+
+**Beyond data science, I'm passionate about continuous learning and community engagement**
+
+</div>
+
+### 🌟 Personal Highlights
+
+- **🎓 Lifelong Learner**: Currently pursuing MSDS while working full-time at Salesforce
+- **📚 Knowledge Sharing**: Published articles on data governance and best practices
+- **🌱 Growth Mindset**: Always exploring new technologies and methodologies
+- **💡 Innovation**: Bridge between academic research and practical business applications
+
+### 🎯 What Drives Me
+
+- **Solving Complex Problems**: Using data to uncover insights that drive business value
+- **Building Teams**: Creating environments where data professionals can thrive
+- **Continuous Innovation**: Staying at the forefront of AI/ML developments
+- **Making Impact**: Contributing to projects that improve decision-making and outcomes
 
 ---
 
