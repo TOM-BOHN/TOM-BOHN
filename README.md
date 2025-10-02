@@ -63,6 +63,13 @@
 <th width="45%" style="text-align: center;">Description</th>
 </tr>
 <tr>
+<td align="center">2025 Jan</td>
+<td align="center">LLM Classification</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/MsDS-deep-learning-llm-classification-finetuning">deep-learning-llm-classification-finetuning</a></td>
+<td align="center">Completed</td>
+<td>Fine-tune DeBERTa v3 model to predict human preferences in LLM responses using Chatbot Arena dataset with systematic optimization experiments.</td>
+</tr>
+<tr>
 <td align="center">2025 Sept</td>
 <td align="center">LSTM</td>
 <td align="center"><a href="https://github.com/TOM-BOHN/MsDS-deep-learing-rnn-disaster-tweets">deep-learing-rnn-disaster-tweets</a></td>
