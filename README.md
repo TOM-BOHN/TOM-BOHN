@@ -2,40 +2,86 @@
 
 <div align="center">
 
-# 👋 Hello, I'm Thomas Bohn
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4E79A7,100:F28E2B&height=220&section=header&text=Thomas%20Bohn&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Director,%20Product%20Management%20%E2%80%94%20AI%20Data%20Platform%20%40%20Salesforce&descAlignY=56&descSize=18&animation=fadeIn" width="100%" alt="Thomas Bohn — Director, Product Management, AI Data Platform @ Salesforce" />
 
-**Experienced Data Scientist** with 15 years of expertise in data science, data visualization, product management, and data management. Proven ability to develop and implement strategies for data-centric product development and data-driven decision-making.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1200&color=F28E2B&center=true&vCenter=true&width=700&lines=PRODUCT+MANAGER;PROGRAM+MANAGER;SOFTWARE+ENGINEER;SOLUTION+ARCHITECT;PRODUCT+MANAGER+%26+SOFTWARE+DESIGNER)](https://thomaslbohn.com)
 
-*Applying for Senior Data Scientist positions to leverage expertise in emerging AI, advanced analytics, and model-driven products and solutions.*
+> Improving Data Management Maturity so AI and agents can be trusted with the data, metadata, and context they need.
 
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomaslbohn)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bohn.tl)
-
-*Open to discussing data science opportunities, collaborations, and innovative projects*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomaslbohn)&nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/thomaslbohn.com-F28E2B?style=flat&logo=googlechrome&logoColor=white)](https://thomaslbohn.com)&nbsp;&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@ThomasLBohn)
 
 </div>
 
 ---
 
-## 🚀 Recent Data Science Projects
+## <img src="assets/icons/person.svg" width="24" align="absmiddle"> About Me
 
-### 🎨 Computer Vision & Image Processing
+I'm a product manager and software designer with 15+ years of experience leading data-driven solutions and AI products. At Salesforce, I lead AI Data Platform product strategy, focused on improving **Data Management Maturity (DMM)** so AI and agents have the trusted data, metadata, and context they need.
+
+I pair product strategy with hands-on technical execution — using software engineering tools and LLMs to define requirements, explore ideas faster, and ship proof-of-concepts that validate customer needs directly. Along the way I founded a Data Visualization Center of Excellence, ran enterprise-wide DMM programs, and mentored 200+ data visualization engineers.
+
+Outside of Salesforce, I hold an **MS in Computer Science** from CU Boulder (completed September 2026), write on data governance and technical leadership, and build AI/product tools in the open — from Claude Code plugins to deep learning coursework projects.
+
+---
+
+## <img src="assets/icons/brackets.svg" width="24" align="absmiddle"> Projects
+
+### <img src="assets/icons/chevron.svg" width="16" align="absmiddle"> AI Product & Engineering Work
 
 <table>
 <tr>
-<th width="10%" style="text-align: center;">Date</th>
-<th width="15%" style="text-align: center;">Type</th>
-<th width="20%" style="text-align: center;">Repo</th>
-<th width="10%" style="text-align: center;">Status</th>
-<th width="45%" style="text-align: center;">Description</th>
+<th width="12%" align="center">Date</th>
+<th width="16%" align="center">Type</th>
+<th width="22%" align="center">Repo</th>
+<th width="10%" align="center">Status</th>
+<th width="40%" align="center">Description</th>
+</tr>
+<tr>
+<td align="center">2026 (ongoing)</td>
+<td align="center">Portfolio Site</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/tom-bohn.github.io">tom-bohn.github.io</a></td>
+<td align="center">Active</td>
+<td>Personal portfolio built with Next.js, React, and TypeScript — blog, projects, certifications, and an interactive V2MOM framework.</td>
+</tr>
+<tr>
+<td align="center">2026 (ongoing)</td>
+<td align="center">Claude Code Plugins</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/claude-plugins">claude-plugins</a></td>
+<td align="center">Active</td>
+<td>Personal monorepo of Claude Code plugins for technical writing, solution architecture, and marketing workflows.</td>
+</tr>
+<tr>
+<td align="center">2025</td>
+<td align="center">AI/ML Analysis</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/SFDC-User-Permissions-AI">SFDC-User-Permissions-AI</a></td>
+<td align="center">Active</td>
+<td>Analyze Salesforce user permissions using AI/ML techniques — scraping, processing, and LLM-driven analysis pipelines.</td>
+</tr>
+<tr>
+<td align="center">2025–2026</td>
+<td align="center">Whitepapers</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/thomas-bohn-articles">thomas-bohn-articles</a></td>
+<td align="center">Active</td>
+<td>Whitepapers and frameworks on software engineering leadership, organizational transformation, and data governance, written using spec-driven development principles.</td>
+</tr>
+</table>
+
+<details>
+<summary><img src="assets/icons/cap.svg" width="20" align="absmiddle"> <b>MS Computer Science Coursework — CU Boulder, 2023–2026</b> (click to expand)</summary>
+
+<br />
+
+#### <img src="assets/icons/chevron.svg" width="16" align="absmiddle"> Computer Vision & Image Processing
+
+<table>
+<tr>
+<th width="12%" align="center">Date</th>
+<th width="16%" align="center">Type</th>
+<th width="22%" align="center">Repo</th>
+<th width="10%" align="center">Status</th>
+<th width="40%" align="center">Description</th>
 </tr>
 <tr>
 <td align="center">2025 Sept</td>
@@ -53,15 +99,15 @@
 </tr>
 </table>
 
-### 📝 Natural Language Processing
+#### <img src="assets/icons/chevron.svg" width="16" align="absmiddle"> Natural Language Processing
 
 <table>
 <tr>
-<th width="10%" style="text-align: center;">Date</th>
-<th width="15%" style="text-align: center;">Type</th>
-<th width="20%" style="text-align: center;">Repo</th>
-<th width="10%" style="text-align: center;">Status</th>
-<th width="45%" style="text-align: center;">Description</th>
+<th width="12%" align="center">Date</th>
+<th width="16%" align="center">Type</th>
+<th width="22%" align="center">Repo</th>
+<th width="10%" align="center">Status</th>
+<th width="40%" align="center">Description</th>
 </tr>
 <tr>
 <td align="center">2025 Oct</td>
@@ -107,15 +153,15 @@
 </tr>
 </table>
 
-### 🤖 Traditional Machine Learning
+#### <img src="assets/icons/chevron.svg" width="16" align="absmiddle"> Traditional Machine Learning
 
 <table>
 <tr>
-<th width="10%" style="text-align: center;">Date</th>
-<th width="15%" style="text-align: center;">Type</th>
-<th width="20%" style="text-align: center;">Repo</th>
-<th width="10%" style="text-align: center;">Status</th>
-<th width="45%" style="text-align: center;">Description</th>
+<th width="12%" align="center">Date</th>
+<th width="16%" align="center">Type</th>
+<th width="22%" align="center">Repo</th>
+<th width="10%" align="center">Status</th>
+<th width="40%" align="center">Description</th>
 </tr>
 <tr>
 <td align="center">2023 Aug</td>
@@ -126,15 +172,41 @@
 </tr>
 </table>
 
-### 📈 Data Visualization & Analysis
+#### <img src="assets/icons/chevron.svg" width="16" align="absmiddle"> Marketing Analytics
 
 <table>
 <tr>
-<th width="10%" style="text-align: center;">Date</th>
-<th width="15%" style="text-align: center;">Type</th>
-<th width="20%" style="text-align: center;">Repo</th>
-<th width="10%" style="text-align: center;">Status</th>
-<th width="45%" style="text-align: center;">Description</th>
+<th width="12%" align="center">Date</th>
+<th width="16%" align="center">Type</th>
+<th width="22%" align="center">Repo</th>
+<th width="10%" align="center">Status</th>
+<th width="40%" align="center">Description</th>
+</tr>
+<tr>
+<td align="center">2023 Oct</td>
+<td align="center">Network Analysis</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/MsDS-marketing-network-analysis">marketing-network-analysis</a></td>
+<td align="center">Completed</td>
+<td>Apply network analysis techniques to marketing analytics, modeling relationships and influence patterns between entities.</td>
+</tr>
+<tr>
+<td align="center">2023 Sept</td>
+<td align="center">Topic Modeling</td>
+<td align="center"><a href="https://github.com/TOM-BOHN/MsDS-product-review-topic-modeling">product-review-topic-modeling</a></td>
+<td align="center">Completed</td>
+<td>Unsupervised text classification of product reviews using topic modeling for marketing analytics insights.</td>
+</tr>
+</table>
+
+#### <img src="assets/icons/chevron.svg" width="16" align="absmiddle"> Data Visualization & Analysis
+
+<table>
+<tr>
+<th width="12%" align="center">Date</th>
+<th width="16%" align="center">Type</th>
+<th width="22%" align="center">Repo</th>
+<th width="10%" align="center">Status</th>
+<th width="40%" align="center">Description</th>
 </tr>
 <tr>
 <td align="center">2023 April</td>
@@ -159,199 +231,148 @@
 </tr>
 </table>
 
+</details>
+
 ---
 
-## 🔗 Certification Links
+## <img src="assets/icons/ribbon.svg" width="24" align="absmiddle"> Certifications
 
 <div align="center">
 
-[![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/thomasbohn)
-[![Credly](https://img.shields.io/badge/-Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/thomasbohn/badges)
-[![Accredible](https://img.shields.io/badge/-Accredible-FF6B35?style=for-the-badge&logo=accredible&logoColor=white)](https://credentials.getdbt.com/profile/thomasbohn/wallet)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn_Certs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomaslbohn/details/certifications/)
+[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/thomasbohn)&nbsp;&nbsp;
+[![Credly](https://img.shields.io/badge/Credly-FF6B35?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/thomasbohn/badges)&nbsp;&nbsp;
+[![Accredible](https://img.shields.io/badge/Accredible-FF6B35?style=flat&logo=accredible&logoColor=white)](https://credentials.getdbt.com/profile/thomasbohn/wallet)&nbsp;&nbsp;
+[![LinkedIn Certs](https://img.shields.io/badge/LinkedIn_Certs-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomaslbohn/details/certifications/)
 
 </div>
 
 ---
 
-### 📝 Featured Writing & Publications
+## <img src="assets/icons/pen.svg" width="24" align="absmiddle"> Featured Writing
 
 <table>
 <tr>
-<th width="10%" style="text-align: center;">Date</th>
-<th width="15%" style="text-align: center;">Type</th>
-<th width="20%" style="text-align: center;">Title</th>
-<th width="10%" style="text-align: center;">Status</th>
-<th width="45%" style="text-align: center;">Description</th>
+<th width="10%" align="center">Date</th>
+<th width="60%" align="center">Title</th>
+<th width="30%" align="center">Topic</th>
 </tr>
 <tr>
-<td align="center">2023 Aug</td>
-<td align="center">Medium Article</td>
-<td align="center"><a href="https://medium.com/@bohn.tl/the-4-cs-of-data-governance-measurement-5759fdbbc373">The 4 Cs of Data Governance Measurement</a></td>
-<td align="center">Published</td>
-<td>Introduce comprehensive framework for data governance using Capability, Capacity, Competency, and Compliance metrics.</td>
+<td align="center">2026 Mar</td>
+<td><a href="https://medium.com/@ThomasLBohn/the-pyramid-approach-to-technical-writing-decomposition-reuse-and-ai-grounding-788bb58c179f">The Pyramid Approach to Technical Writing</a></td>
+<td align="center">Technical Writing / AI Grounding</td>
+</tr>
+<tr>
+<td align="center">2026 Feb</td>
+<td><a href="https://medium.com/@ThomasLBohn/measuring-value-for-data-products-cfb1504f4c7c">Measuring Value for Data Products</a></td>
+<td align="center">Product Strategy</td>
+</tr>
+<tr>
+<td align="center">2026 Feb</td>
+<td><a href="https://medium.com/@ThomasLBohn/my-background-ten-years-at-the-intersection-of-product-architecture-and-engineering-48865a397335">My Background: Ten Years at the Intersection of Product, Architecture, and Engineering</a></td>
+<td align="center">Career</td>
+</tr>
+<tr>
+<td align="center">2026 Feb</td>
+<td><a href="https://medium.com/@ThomasLBohn/my-leadership-style-how-i-approach-engineering-management-ed1a4a352de0">My Leadership Style: How I Approach Engineering Management</a></td>
+<td align="center">Technical Leadership</td>
+</tr>
+<tr>
+<td align="center">2026 Jan</td>
+<td><a href="https://medium.com/@ThomasLBohn/the-enabling-team-playbook-78b60b0bb4f0">The Enabling Team Framework</a></td>
+<td align="center">Organizational Transformation</td>
 </tr>
 </table>
-
----
-
-## 🎉 Fun Facts & Personal Interests
 
 <div align="center">
 
-**Beyond data science, I'm passionate about continuous learning and community engagement**
+*See the full archive on [Medium](https://medium.com/@ThomasLBohn) →*
 
 </div>
 
-### 🌟 Personal Highlights
+---
 
-- **🎓 Lifelong Learner**: Currently pursuing MSDS while working full-time at Salesforce
-- **📚 Knowledge Sharing**: Published articles on data governance and best practices
-- **🌱 Growth Mindset**: Always exploring new technologies and methodologies
-- **💡 Innovation**: Bridge between academic research and practical business applications
+### <img src="assets/icons/star.svg" width="20" align="absmiddle"> Personal Highlights
 
-### 🎯 What Drives Me
+<img src="assets/icons/cap.svg" width="18" align="absmiddle"> **Lifelong Learner** — completed an MS in Computer Science at CU Boulder (Sept 2026) while working full-time at Salesforce
 
-- **Solving Complex Problems**: Using data to uncover insights that drive business value
-- **Building Teams**: Creating environments where data professionals can thrive
-- **Continuous Innovation**: Staying at the forefront of AI/ML developments
-- **Making Impact**: Contributing to projects that improve decision-making and outcomes
+<img src="assets/icons/share.svg" width="18" align="absmiddle"> **Knowledge Sharing** — published whitepapers and articles on data governance, technical leadership, and best practices
+
+<img src="assets/icons/sprout.svg" width="18" align="absmiddle"> **Growth Mindset** — always exploring new technologies, methodologies, and AI-assisted ways of working
+
+<img src="assets/icons/wrench.svg" width="18" align="absmiddle"> **Builder** — bridges academic research and practical business applications
 
 ---
 
-## 🛠️ Technology Stack
+### <img src="assets/icons/compass.svg" width="20" align="absmiddle"> What Drives Me
+
+<img src="assets/icons/puzzle.svg" width="18" align="absmiddle"> **Solving Complex Problems** — using data to uncover insights that drive business value
+
+<img src="assets/icons/team.svg" width="18" align="absmiddle"> **Building Teams** — creating environments where data professionals can thrive
+
+<img src="assets/icons/bulb.svg" width="18" align="absmiddle"> **Continuous Innovation** — staying at the forefront of AI/ML and agentic development
+
+<img src="assets/icons/target.svg" width="18" align="absmiddle"> **Making Impact** — shipping products that improve decision-making and outcomes
+
+---
+
+## <img src="assets/icons/stack.svg" width="24" align="absmiddle"> Technology Stack
 
 <table>
 <tr>
-<th width="20%" style="text-align: center;">Category</th>
-<th width="80%" style="text-align: center;">Technologies</th>
+<th width="22%" align="left">Category</th>
+<th width="78%" align="left">Technologies</th>
 </tr>
 <tr>
-<td align="center"><strong>👨‍💻 Languages & Frameworks</strong></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce">
-</td>
+<td valign="top"><strong><img src="assets/icons/terminal.svg" width="16" align="absmiddle"> Languages & Frameworks</strong></td>
+<td><kbd>Python</kbd>&nbsp;<kbd>R</kbd>&nbsp;<kbd>SQL</kbd>&nbsp;<kbd>TypeScript</kbd>&nbsp;<kbd>Bash</kbd>&nbsp;<kbd>Salesforce (Apex / LWC)</kbd></td>
 </tr>
 <tr>
-<td align="center"><strong>🧰 Data Science & AI</strong></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-<img src="https://img.shields.io/badge/SciPy-8CAAe6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-<img src="https://img.shields.io/badge/NLTK-FF6B6B?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK">
-</td>
+<td valign="top"><strong><img src="assets/icons/sparkle.svg" width="16" align="absmiddle"> AI-Assisted Development</strong></td>
+<td><kbd>Claude Code</kbd>&nbsp;<kbd>Cursor</kbd>&nbsp;<kbd>ChatGPT</kbd>&nbsp;<kbd>Perplexity</kbd>&nbsp;<kbd>Agentforce</kbd></td>
 </tr>
 <tr>
-<td align="center"><strong>🗄️ Data Storage & Databases</strong></td>
-<td align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark">
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="Amazon S3">
-</td>
+<td valign="top"><strong><img src="assets/icons/flask.svg" width="16" align="absmiddle"> Data Science & AI/ML</strong></td>
+<td><kbd>Pandas</kbd>&nbsp;<kbd>NumPy</kbd>&nbsp;<kbd>Scikit-Learn</kbd>&nbsp;<kbd>SciPy</kbd>&nbsp;<kbd>TensorFlow</kbd>&nbsp;<kbd>PyTorch</kbd>&nbsp;<kbd>Keras</kbd>&nbsp;<kbd>NLTK</kbd></td>
 </tr>
 <tr>
-<td align="center"><strong>📊 Data Engineering & ETL</strong></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow">
-<img src="https://img.shields.io/badge/dbt-FF6944?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt">
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark">
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
-</td>
+<td valign="top"><strong><img src="assets/icons/database.svg" width="16" align="absmiddle"> Data Storage & Engineering</strong></td>
+<td><kbd>PostgreSQL</kbd>&nbsp;<kbd>MySQL</kbd>&nbsp;<kbd>Apache Spark</kbd>&nbsp;<kbd>Apache Airflow</kbd>&nbsp;<kbd>dbt</kbd>&nbsp;<kbd>Snowflake</kbd>&nbsp;<kbd>Amazon S3</kbd></td>
 </tr>
 <tr>
-<td align="center"><strong>☁️ Cloud Platforms</strong></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="Amazon S3">
-<img src="https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon SageMaker">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</td>
+<td valign="top"><strong><img src="assets/icons/cloud.svg" width="16" align="absmiddle"> Cloud & DevOps</strong></td>
+<td><kbd>Amazon AWS</kbd>&nbsp;<kbd>Amazon SageMaker</kbd>&nbsp;<kbd>Docker</kbd>&nbsp;<kbd>Git</kbd>&nbsp;<kbd>GitHub</kbd>&nbsp;<kbd>Jenkins</kbd>&nbsp;<kbd>Snyk</kbd></td>
 </tr>
 <tr>
-<td align="center"><strong>💻 Development & DevOps</strong></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
-</td>
+<td valign="top"><strong><img src="assets/icons/bars.svg" width="16" align="absmiddle"> Visualization & BI</strong></td>
+<td><kbd>Tableau</kbd>&nbsp;<kbd>Jupyter</kbd>&nbsp;<kbd>R Markdown</kbd></td>
 </tr>
 <tr>
-<td align="center"><strong>📈 Data Visualization & BI</strong></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Tableau-1F77B4?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
-</td>
-</tr>
-<tr>
-<td align="center"><strong>💻 Development Environment</strong></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-<img src="https://img.shields.io/badge/R_Markdown-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Markdown">
-<img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Conda">
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets">
-</td>
-</tr>
-<tr>
-<td align="center"><strong>📋 Work Management</strong></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
-<img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace">
-<img src="https://img.shields.io/badge/Lucidchart-F24E1E?style=for-the-badge&logo=lucidchart&logoColor=white" alt="Lucidchart">
-</td>
+<td valign="top"><strong><img src="assets/icons/clipboard.svg" width="16" align="absmiddle"> Work Management</strong></td>
+<td><kbd>Jira</kbd>&nbsp;<kbd>Confluence</kbd>&nbsp;<kbd>Slack</kbd>&nbsp;<kbd>Lucidchart</kbd></td>
 </tr>
 </table>
 
 ---
-
-## 📈 GitHub Statistics
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-### 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=TOM-BOHN&theme=default&mode=weekly&fire=DD2727)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-</td>
-<td width="50%">
-
-### 📊 Profile Statistics
-[![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=TOM-BOHN&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&bg_color=00000&title_color=4E79A7&icon_color=F28E2B)](https://github.com/anuraghazra/github-readme-stats)
+### <img src="assets/icons/bars.svg" width="20" align="absmiddle"> Profile Statistics
+[![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=TOM-BOHN&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&bg_color=00000000&title_color=4E79A7&icon_color=F28E2B)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="45%" valign="top">
 
-### 🗣️ Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TOM-BOHN&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=00000&title_color=4E79A7&icon_color=F28E2B&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-<td width="50%">
-
-### 📈 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=TOM-BOHN&bg_color=00000&color=4E79A7&line=F28E2B&point=717f7f&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### <img src="assets/icons/brackets.svg" width="20" align="absmiddle"> Top Languages
+[![Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TOM-BOHN&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=4E79A7&icon_color=F28E2B&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 </tr>
 </table>
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=TOM-BOHN&style=for-the-badge&color=blue)
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F28E2B,100:4E79A7&height=100&section=footer&animation=fadeIn" width="100%" alt="" />
